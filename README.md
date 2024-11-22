@@ -36,16 +36,6 @@ Conclusion: Future challenges and the way forward.
 Exploring the balance between security advancements and the increasing sophistication of cyber attacks.
 Identifying scalable solutions for proactive threat detection and real-time response.
 
-📘 How to Use This Repository
-
-Clone the repository:
-
-bash
-git clone https://github.com/your-username/advanced-cyber-attacks-research.git
-Navigate through the structured folders containing research papers, case studies, and code implementations (if any).
-
-Refer to the documentation in each folder for detailed insights.
-
 🤝 Contributing
 
 Contributions are welcome! If you have suggestions or wish to collaborate, please open an issue or submit a pull request.
